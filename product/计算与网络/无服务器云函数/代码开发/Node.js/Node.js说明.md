@@ -6,7 +6,7 @@
 
 ## 函数形态
 
-Node.js 函数形态一般如下所示：
+Node.js 函数形态一般如下所示1：
 - Node.js 10.15 及 12.16
 ```
 module.exports = (event,context,callback)=>{
